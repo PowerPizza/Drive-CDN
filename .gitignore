@@ -1,0 +1,5 @@
+EXE/
+test/
+credentials_file_path.json/
+build/
+dist/
